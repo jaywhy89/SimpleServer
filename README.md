@@ -18,7 +18,7 @@ To compile,
 ```
 make
 ```
-To <b>run</b>m
+To <b>run server</b>
 ```
 make run
 ```
